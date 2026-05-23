@@ -1,0 +1,10 @@
+{
+  "name": "Derp Flipbook v3",
+  "short_name": "DerpFlip",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111417",
+  "theme_color": "#66d9ff",
+  "description": "A clean mobile-first frame-by-frame virtual flipbook app.",
+  "icons": []
+}
