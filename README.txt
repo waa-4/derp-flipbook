@@ -17,9 +17,3 @@ A clean, mobile-first, frame-by-frame rebuild.
 - Sound attachment and preview
 - Project JSON backup/import
 - Video export using browser MediaRecorder
-
-## Export note
-Browser export depends on what the browser supports. If MP4 is supported, it exports MP4. If not, it exports WebM. GIF export is planned for later after the core editor is stable.
-
-## Releases
-Upload this zip to GitHub Releases as DerpFlipbook-v3-true-flipbook.zip.
